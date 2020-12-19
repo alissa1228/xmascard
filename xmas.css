@@ -1,0 +1,22 @@
+body {
+    background-color : #9b070f;
+    font-family: 'Gothic A1', sans-serif;
+}
+
+.envelope {
+    width : 200px;
+    height : 200px;
+
+    background-image: url("https://pngimg.com/uploads/envelope/envelope_PNG18366.png");
+    background-size: cover;
+    background-position: center;
+
+    margin : 200px auto 0px auto; 
+}
+
+.envelopeMsg{
+    text-align: center;
+    color : white;
+    margin : 0;
+    font-size : 15px;
+}
